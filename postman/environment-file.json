@@ -1,0 +1,19 @@
+{
+  "id": "f2b3dbb2-1501-40e3-810e-b92c67411be0",
+  "name": "akash_s_application432_environment",
+  "values": [
+    {
+      "key": "token",
+      "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYxMWRlZDVjMGFjMjAxMmFjMDI4ODkxZiIsInVzZXJuYW1lIjoiYWRtaW4iLCJpYXQiOjE2MjkzNTEyNzAsImV4cCI6MTYyOTk1MTI3MH0.BJ-WKjNYeFDQ4pn8kfli5gwn6GLz_c3voFht20Agj9k",
+      "enabled": true
+    },
+    {
+      "key": "url",
+      "value": "http://localhost:5000",
+      "enabled": true
+    }
+  ],
+  "_postman_variable_scope": "environment",
+  "_postman_exported_at": "2022-10-20T09:52:01.743Z",
+  "_postman_exported_using": "Postman"
+}
